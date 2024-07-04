@@ -1,1 +1,0 @@
-# Project_Stroop_test
